@@ -5,9 +5,9 @@ This is basic proof-of-concept web application that allows 23andMe customers to 
 
 This project is comprised of two distinct repositories or code bases, a frontend and a backend API:
 
-[Frontend source code repository](https://bitbucket.org/dublinoverflow/23andmefrontend_deploy_v1.0)
+[Frontend source code repository](https://github.com/mdublin/23andMe-KnockoutJS)
 
-[Proxy API source code repository](https://bitbucket.org/dublinoverflow/23andmeproxyapi_deploy_v1.0)
+[Proxy API source code repository](https://github.com/mdublin/23andMe-Flask-ProxyAPI)
 
 
 [**VIEW LIVE DEPLOYMENT**](https://23andmefrontend.com) (**see note on https below)
