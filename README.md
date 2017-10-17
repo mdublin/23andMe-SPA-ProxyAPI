@@ -10,7 +10,7 @@ This project is comprised of two distinct repositories or code bases, a frontend
 [Proxy API source code repository](https://github.com/mdublin/23andMe-Flask-ProxyAPI)
 
 
-[**VIEW LIVE DEPLOYMENT**](https://23andmefrontend.com) (**see note on https below)
+[**VIEW LIVE DEPLOYMENT**](https://23andmefrontend.com/) (**see note on https below)
 
 
 As will be explained in more detail below, the frontend and the backend are completely decoupled. In other words, this is not an MVC-type architecture wherein the backend, server-side code is rendering the frontend views. The reason that this project does not just consist of a frontend making AJAX calls directly to 23andMe's own API is due to their API's limitations, specifically the lack of JSONP compatibility and cross origin requesting.
